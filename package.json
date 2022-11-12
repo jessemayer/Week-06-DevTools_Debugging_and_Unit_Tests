@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "chai": "^4.3.7",
+    "chia": "^0.0.1",
+    "moch": "^0.0.1",
+    "mocha": "^10.1.0"
+  },
+  "name": "week-06-devtools_debugging_and_unit_tests",
+  "version": "1.0.0",
+  "main": "Week_6_coding_assignment_.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
